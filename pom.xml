@@ -12,6 +12,7 @@
         <module>springboot-my-starter</module>
         <module>swagger</module>
         <module>cacheManager</module>
+        <module>my-classloader</module>
     </modules>
 
     <parent>
